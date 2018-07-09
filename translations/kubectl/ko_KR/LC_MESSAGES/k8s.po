@@ -21,7 +21,7 @@ msgstr ""
 
 # https://github.com/kubernetes/kubernetes/blob/masterpkg/kubectl/cmd/apply.go#L98
 msgid "Apply a configuration to a resource by filename or stdin"
-msgstr "구성을 파일 이름 또는 stdin에 의한 자원에 적용합니다"
+msgstr "구성을 파일 이름 또는 stdin에 의한 설정을 자원에 적용합니다"
 
 # https://github.com/kubernetes/kubernetes/blob/master/pkg/kubectl/cmd/config/delete_cluster.go#L38
 msgid "Delete the specified cluster from the kubeconfig"
